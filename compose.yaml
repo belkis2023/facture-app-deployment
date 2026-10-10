@@ -15,5 +15,3 @@ services:
 
 volumes:
   facture_data:
-    external: true
-    name: f035dd14fda2b576aa2bad4851476c1e563ffbe706719c2eccad3ae7e716ca10
